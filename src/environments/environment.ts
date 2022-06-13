@@ -3,7 +3,10 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  apiKeyHereMaps: 'D2fxhz6tM3zymggcIEcUYu5YSgmi0pdgB2jyWqEu1mg',
+  urlApiCoordendas:
+    'https://prog3.nhorenstein.com/api/geolocalizacion/GetMarcadores',
 };
 
 /*
